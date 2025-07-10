@@ -49,6 +49,9 @@ header{
     background-image: url(../Assets/Hero-bg.png)
     
 }
+.secondary-bg{
+    background-color: #F5F8FF;
+}
 
 .banner{
     text-align: center;
@@ -57,4 +60,26 @@ header{
     font-size: 65px;
     font-weight: 700;
     color: #252432;
+}
+
+.webflow{
+    max-width: 1440px;
+    padding: 120px 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.web-title{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+}
+.web-description{
+    font-size: 24px;
+    color: #25243280;
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+.webflow-right{
+    border-radius: 48px;
 }
