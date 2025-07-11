@@ -63,11 +63,12 @@ header{
 }
 
 .webflow{
-    max-width: 1440px;
+    max-width: 1140px;
     padding: 120px 150px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 auto;
 }
 .web-title{
     font-size: 42px;
