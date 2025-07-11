@@ -160,3 +160,83 @@ header{
     font-weight: 700;
 
 }
+
+.form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding-bottom: 120px;
+}
+.form-title{
+    font-size: 97px;
+    font-weight: 700;
+
+}
+
+
+.input-one{
+    height: 35px;
+    width: 490px;
+    padding: 20px 32px;
+    font-size: 20px;
+    border-radius: 10px;
+    border-style: none;
+}
+
+.input-two{
+    height: 135px;
+    width: 490px;
+    padding: 20px 32px;
+    font-size: 20px;
+    border-radius: 10px;
+    border-style: none;
+}
+
+.btn-three{
+    background-color: #4E47FF;
+    font-size: 16px;
+    font-weight: 700;
+    color: white;
+    padding: 12px 36px;
+    border-radius: 10px;
+    border-style: none;
+    height: 62px;
+    width: 560px;
+    margin-top: 20px;
+}
+
+.inp{
+    font-size: 18px;
+    font-weight: 600;
+}
+.logo{
+    max-width: 600px;
+    margin: 100px auto;
+    
+}
+
+.logo-title{
+    text-align: center;
+    font-size: 100px;
+    font-weight: 900;
+    color: #4E47FF;
+    margin-bottom: 8px;
+}
+.logo-description{
+    color: #8987A1;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+}
+.footer-link{
+    display: flex;
+    justify-content: space-between;
+}
+footer a{
+    text-decoration: none;
+    color: #8987A1;
+    font-size: 18px;
+    font-weight: 500;
+}
