@@ -83,3 +83,80 @@ header{
 .webflow-right{
     border-radius: 48px;
 }
+.productive-title{
+    text-align: center;
+    font-size: 38px;
+    font-weight: 700;
+    color: #252432;
+}
+.productive{
+    max-width: 1140px;
+    
+    
+}
+.Productive-page{
+    max-width: 1140px;
+    margin: 0 auto;
+   background-color: #4E47FF1A;
+   padding: 50px 80px;
+   border-radius: 24px;
+   margin-bottom: 140px;
+}
+
+.productive-data{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.data-info{
+    color: #4E47FF;
+    font-size: 80px;
+    font-weight: 700;
+}
+.data-des{
+    font-size: 20px;
+    color: #00000080;
+}
+
+.fa-star{
+    color: orange;
+}
+
+.users{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+    margin-bottom: 120px;
+}
+.name{
+    color: #757575;
+}
+.users-title{
+    text-align: center;
+}
+.user-one{
+    
+    background-color: white;
+    border-radius: 14px;
+    padding: 24px;
+}
+.profile{
+    display: flex;
+    gap: 12px;
+}
+.photo{
+    width: 40px;
+    border-radius: 50%;
+
+}
+.users-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+.users-title{
+    font-size: 42px;
+    font-weight: 700;
+
+}
